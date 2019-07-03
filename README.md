@@ -1,0 +1,1 @@
+Maryam Mirzakhani Tribute Page, made as a responsive design project for FreeCodeCamp.

@@ -1,0 +1,25 @@
+.container-fluid{
+    background-color: #eeeeee;
+}
+.times-new-roman{
+    font-family: "Times New Roman";
+}
+.tahoma{
+    font-family: "Tahoma";}
+.huge{
+    font-size: 500%;
+}
+
+.bigger{font-size: 300%;}
+.big{font-size: 200%;}
+.gray-bg{color:gray;}
+.grayer{background-color:#dddddd;}
+.small-container{width:40.5%;}
+.small{font-size: 12px;}
+
+#image {
+	max-width: 100%;
+	display: block;
+	position: relative;
+	margin: auto;
+}
